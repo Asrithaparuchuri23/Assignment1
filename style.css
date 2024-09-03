@@ -1,4 +1,3 @@
-/* Basic Reset */
 * {
     margin: 0;
     padding: 0;
@@ -21,8 +20,8 @@
 }
 
 .logo img {
-    height: 40px; /* Adjust height as needed */
-    width: auto;  /* Maintain aspect ratio */
+    height: 40px; 
+    width: auto; 
     border-radius: 50px;
     margin-right: 10px;
 }
@@ -177,9 +176,9 @@ footer {
     margin-left: 15px;
     text-decoration: none;
     color: #333;
-    font-size: 20px; /* Adjust size as needed */
+    font-size: 20px;
 }
 
 .icons a:hover {
-    color: #ff3e6c; /* Change color on hover */
+    color: #ff3e6c;
 }
